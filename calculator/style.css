@@ -16,8 +16,6 @@
     background-color: #0d8ff2;
     padding: 15px;
     border-radius: 30px;
-    /*box-shadow: inset 5px 5px 12px #ffffff,
-                        5px 5px 12px rgba(0, 0, 0, .16);*/
     display: grid;
     grid-template-columns: repeat(4,68px);
 }
@@ -26,8 +24,6 @@ input{
     height: 70px;
     width: 260px;
     background-color: #ecf0f3;
-    /*box-shadow: inset -5px -5px 12px #ffffff,
-                inset 5px 5px 12px rgba(0, 0, 0, .16);*/
     border: none;
     border-radius: 30px;
     color: rgba(70, 70, 70, 70);
@@ -42,8 +38,6 @@ button{
     height: 45px;
     width: 45px;
     background-color: #ecf0f3;
-    /*box-shadow: -5px -5px 12px #ffffff,
-                5px 5px 12px rgba(0, 0, 0, .16);*/
     border: none;
     border-radius: 30%;
     margin: 10%;
@@ -59,6 +53,4 @@ button:hover{
     width: 110px;
     border-radius: 40px;
     background-color: #ecf0f3;
-    /*box-shadow: -5px -5px 12px #ffffff,
-                5px 5px 12px rgba(0, 0, 0, .16);*/
 }
